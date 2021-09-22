@@ -1,6 +1,6 @@
 # Crypto Currency Search App - ReactJS
 
-See live: [eklenecek](https://netlify.app/)
+See live: [https://hafiza-oyunu-fuloskop.netlify.app](https://hafiza-oyunu-fuloskop.netlify.app)
 
 <img src="./src/photo.png" width="100%" align="center">
 
